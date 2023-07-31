@@ -1,5 +1,5 @@
 # ComeWork
-The project "KodWork" in the React Native Mobile App Path available on "[https://academy.patika.dev/](https://academy.patika.dev/courses/react-native/odev_4)" .
+The project "KodWork" in the React Native Mobile App Path available on "[https://academy.patika.dev/](https://academy.patika.dev/tr/paths/react-native-ile-mobile-app-patikasi)" .
 
 * The application is implemented using **React Native**.
 * **Axios** is utilized to retrieve product information from "[https://www.themuse.com/developers/api/v2](https://www.themuse.com/developers/api/v2)". 
